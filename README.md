@@ -27,16 +27,16 @@
   <img src="Icons/icons8-html-96.png" alt="html" width="40" height="40" />&nbsp;
   <img src="Icons/icons8-css-96.png" alt="css" width="40" height="40" />&nbsp;
   <img src="Icons/js_5968292.png" alt="js" width="40" height="40" />&nbsp;
-  <img src="Icons/mongodb icon.png" alt="mongodb" width="40" height="40" />&nbsp;
+<!--   <img src="Icons/mongodb icon.png" alt="mongodb" width="40" height="40" />&nbsp; -->
 </p>
 	<h4> Developer Tools</h4><p>
 	<img src="Icons/icons8-git-96.png" alt="git" width="40" height="40" />&nbsp;	
-  <img src="Icons/gcp icon.png" alt="gcp" width="50" height="40" />&nbsp;
+<!--   <img src="Icons/gcp icon.png" alt="gcp" width="50" height="40" />&nbsp; -->
 	<img src="Icons/icons8-vs-code-96.png" alt="vs code" width="40" height="40" />&nbsp;
 </p>
 	<h4>ML Frameworks and Libraries</h4><p>
 	<img src="Icons/react js icon.jpg" alt="react js" width="40" height="35" />&nbsp;
-	<img src="Icons/node js icon.png" alt="node js" width="40" height="35" />&nbsp;
+<!-- 	<img src="Icons/node js icon.png" alt="node js" width="40" height="35" />&nbsp; -->
   <img src="Icons/spring boot icon.png" alt="spring boot" width="40" height="35" />&nbsp;
   <img src="Icons/icons8-numpy-96.png" alt="numpy" width="40" height="40" />&nbsp;
 	<img src="Icons/icons8-flask-64.png" alt="flask" width="40" height="40" />&nbsp;
